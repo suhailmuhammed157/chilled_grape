@@ -1,6 +1,6 @@
 ﻿# chilled_grape
  
- -A react app created using vite cli.
+- A react app created using vite cli.
  
 - figma file which is developed from - https://www.figma.com/file/V0LkPnWNVqdNsG5d4KnudE/chilled-grape-design
 
