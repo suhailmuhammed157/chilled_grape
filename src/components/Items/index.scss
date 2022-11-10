@@ -1,0 +1,16 @@
+.items-section{
+    .items{
+        padding: 2em;
+        display: grid;
+        grid-template: auto/repeat(3,1fr);        
+        grid-auto-rows: 1fr;
+        gap: 50px;    
+       
+    }
+    .load-more{
+        color: #5C6DDE;
+        font-weight: 600;
+        font-size: 1.6em;
+        padding: 2em;
+    }
+}
